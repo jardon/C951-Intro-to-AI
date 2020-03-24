@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+    <category>
+        <pattern>LINUXYES</pattern>
+        <template>
+            Based off of the answers provided, I recommend that you consider becoming a Linux System Architect.  Linux System Architects design and implement Linux-based computer systems and networks for an organization.  
+            <break></break>
+            <break></break>
+            <link>
+                <text>Linux System Architect Jobs</text>
+                <url>https://www.glassdoor.com/Job/linux-systems-architect-jobs-SRCH_KO0,23.htm</url>
+            </link>
+        </template>
+    </category>
+	
+</aiml>

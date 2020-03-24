@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>WEBYES</pattern>
+        <template>
+            Based off of the answers provided, I recommend that you consider becoming a Web Developer. Web technologies continue to be a vital part of business both small and large.  Web developers can build front ends, back ends, or be full stack developers.
+            <break></break><break></break>
+            <link>
+                <text>Web Developer Jobs</text>
+                <url>https://www.glassdoor.com/Job/web-developer-jobs-SRCH_KO0,13.htm</url>
+            </link>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>DBANO</pattern>
+        <template><srai>DEVELNO</srai></template>
+    </category>
+</aiml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	<category>
+	    <pattern>DEVNO</pattern>
+	    <template>
+	        Based off of the answers provided, I recommend that you consider becoming a Devops Engineer. Devops Engineers work with IT and software developers to help them manage and test code in development cyles as well as release cycles.
+            <break></break><break></break>
+            <link>
+                <text>Devops Engineer Jobs</text>
+                <url>https://www.glassdoor.com/Job/devops-engineer-jobs-SRCH_KO0,15.htm</url>
+            </link>
+	    </template>
+    </category>
+	
+</aiml>
